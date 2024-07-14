@@ -1,0 +1,11 @@
+env
+.DS_Store
+
+back_end/.DS_Store
+back_end/db.sqlite3
+back_end/back_end/__pycache__
+back_end/provider_portal/__pycache__
+back_end/provider_portal/migrations/__pycache__
+
+front_end/.next
+front_end/node_modules
